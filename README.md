@@ -1,2 +1,4 @@
 # Live
-Live is a new role playing framework for Arma 3, where players take on the role of a citizen of an island and role play with other players.
+
+<img src="https://img.shields.io/badge/VERSION-0.1-GREEN.svg" />
+<b>Live</b> is a new role playing framework for <b>[Arma 3] (http://www.arma3.com)</b>, where players take on the role of a citizen of an island and role play with other players, made by the Reckless Network Development Team.
